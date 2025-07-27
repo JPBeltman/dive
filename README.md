@@ -273,6 +273,7 @@ Key Binding                                | Description
 <kbd>Ctrl + M</kbd>                        | Filetree view: show/hide modified files
 <kbd>Ctrl + U</kbd>                        | Filetree view: show/hide unmodified files
 <kbd>Ctrl + B</kbd>                        | Filetree view: show/hide file attributes
+<kbd>Ctrl + O</kbd>                        | Filetree view: sort asc/desc by file size
 <kbd>PageUp</kbd> or <kbd>U</kbd>          | Filetree view: scroll up a page
 <kbd>PageDown</kbd> or <kbd>D</kbd>        | Filetree view: scroll down a page
 
